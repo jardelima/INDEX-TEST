@@ -8,7 +8,7 @@ Este é um projeto desenvolvido como teste.
 - E sempre é bom práticar Vanilla JS.
 
 ### :iphone: RESPONSIVIDADE
-Como informado mais acima, o projeto utiliza o conceito mobile-first. Sendo assim, dividi os breakpoints em três partes:
+Como informado mais acima, o projeto utiliza responsividade. Sendo assim, dividi os breakpoints em quatro partes:
 - Layout Large Desktop para tela maiores que 1200px.
 - Layout Desktop para telas maiores que 992px.
 - Layout Ipad para telas entre 576px e 991px.
