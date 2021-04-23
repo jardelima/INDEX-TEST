@@ -1,5 +1,5 @@
 # INDEX-TEST
-Este é um projeto desenvolvido como um teste.
+Este é um projeto desenvolvido como teste.
 
 ### :books: ESTUDOS APLICADOS
 - Tentei aplicar pela primeira vez a metodologia de css <a href="http://getbem.com/">BEM<a>.
